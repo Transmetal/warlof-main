@@ -1,30 +1,10 @@
 <h1 align="center">
   <br>
-  <a  href="https://github.com/thenurhabib/warlof"><img src="./img/logo.png" width="220px" border="2px" ></a>
-  <br>
   Warlof
   <br>
 </h1>
 
 <h4 align="center">Low Bandwidth Distributed Denial-of-service attack ToolKit.</h4>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/thenurhabib/warlof/releases">
-    <img src="https://img.shields.io/github/release/thenurhabib/warlof.svg">
-  </a>
-  <a href="https://travis-ci.com/thenurhabib/warlof">
-    <img src="https://img.shields.io/travis/com/thenurhabib/warlof.svg">
-  </a>
-  <a href="https://github.com/thenurhabib/warlof/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/warlof.svg">
-  </a>
-</p>
-
-<br>
-
-![multiple](./img/ss1.png)
 
 <hr>
 
@@ -44,7 +24,7 @@
 ### Documentation
 ### install
 ```yaml
-git clone https://github.com/thenurhabib/warlof.git
+git clone https://github.com/Transmetal/warlof-main
 cd warlof
 bash setup.sh
 python3 warlof.py --help
@@ -105,15 +85,3 @@ python3 warlof.py example.com --sleep 5
 
 
 <br>
-
-
-### Author
-```yaml
-Name       : Md. Nur habib
-Medium     : thenurhabib.medium.com
-Twitter    : https://twitter.com/thenurhab1b
-HackerRank : https://www.hackerrank.com/thenurhabib
-
-```
-
-##### Thank You.
